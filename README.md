@@ -32,7 +32,13 @@
 
 
 ### Installation
-
+#### USING WGET
+```
+$ apt install wget -y
+$ wget git.io/sptest
+$ bash sptest
+```
+#### Using GIT
 ```
 $ git clone git://github.com/Ign0r3dH4x0r/Bash-Speed-Test.git
 $ cd Bash-Speed-Test
